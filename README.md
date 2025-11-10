@@ -18,4 +18,5 @@
 ---
 
 link figma : https://www.figma.com/design/ZN1YXUuTO7veAAAcsCpOOv/Untitled?node-id=9-285&t=LKLgDK3TvQFSoStc-1
+
 link clickup : https://sharing.clickup.com/90182013211/l/h/2kzm8m8v-498/547c7a7edf9080c
